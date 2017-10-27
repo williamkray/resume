@@ -1,4 +1,5 @@
-# William Kray | [LinkedIn](https://www.linkedin.com/in/williamkray)
+# William Kray
+[LinkedIn](https://www.linkedin.com/in/williamkray)
 
 ## Who Am I
 
