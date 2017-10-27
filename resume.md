@@ -6,7 +6,7 @@ My key strengths are personality and creative thinking. I am driven to learn abo
 
 ## Where Have I Been
 
-*Lead DevOps Architect | CorpInfo (Onica) | May 2017 – Present | Irvine, CA*
+**Lead DevOps Architect | CorpInfo (Onica) | May 2017 – Present | Irvine, CA**
 
   * Actively engineer across multiple teams, establishing and ensuring architectural direction by example.
   * Interact with clients to set expectations for technical delivery.
@@ -15,7 +15,7 @@ My key strengths are personality and creative thinking. I am driven to learn abo
   * Engage with customers, including hands on collaboration with client Engineering teams and Architectural reviews, acting as the Cloud Services, DevOps and Technology evangelist.
   * Plan against delivery risks and potential issues to mitigate with forward planning. And of course, automate all the things.
 
-*Cloud Engineer | CorpInfo | Feb 2016 – May 2017 Employment | Irvine, CA*
+**Cloud Engineer | CorpInfo | Feb 2016 – May 2017 Employment | Irvine, CA**
 
   * Architect and build complex systems for high-availability, fault-tolerance, scalability, and durability.
   * Leverage the full range of Amazon Web Services offerings for deployment, configuration, data warehousing, security, and testing, with focus on AWS CloudFormation and its integration with other AWS services like RDS, Route53, and compute offerings.
@@ -23,7 +23,7 @@ My key strengths are personality and creative thinking. I am driven to learn abo
   * Creatively solve technical and logistical problems to resolve infrastructure durability issues and data reliability.
 
 
-*Jr. DevOps Engineer | Quadrant 4 System Corporation | Sep 2014 – Feb 2016 Employment | Santa Ana, CA*
+**Jr. DevOps Engineer | Quadrant 4 System Corporation | Sep 2014 – Feb 2016 Employment | Santa Ana, CA**
 
   * Automate and oversee multiple HA environments for hundreds of major websites including motortrend.com (CentOS Linux, Rightscale/Chef, Ruby, Git, Atlassian Stash/Confluence, HAProxy/F5, Elasticsearch, Varnish, Apache, Cloudstack)
   * Continue administration of legacy environments (Windows Server, IIS, Postgres)
@@ -34,7 +34,7 @@ My key strengths are personality and creative thinking. I am driven to learn abo
   * Diagnose existing and potential problems and find resolutions for them
 
 
-*SysAdmin / I.T. Support | Trinet Internet Solutions | Jun 2013 – Sep 2014 | Irvine, CA*
+**SysAdmin / I.T. Support | Trinet Internet Solutions | Jun 2013 – Sep 2014 | Irvine, CA**
 
   * Manage several Linux servers (CentOS, Ubuntu)
   * Find sustainable and money-saving solutions to problems (migrate from AWS to self-hosted VMWare)
@@ -45,7 +45,7 @@ My key strengths are personality and creative thinking. I am driven to learn abo
   * Improve tools, systems and processes to promote productivity office-wide
 
 
-*Delivery Manager | Blackstar Marketing | Jul 2012 – Jun 2013 | Aliso Viejo, CA*
+**Delivery Manager | Blackstar Marketing | Jul 2012 – Jun 2013 | Aliso Viejo, CA**
 
   * Independently find creative, reactive methods for delivering campaign emails
   * Manage resources required (IP addresses, domains, landing pages, creative content for campaigns)
@@ -53,7 +53,7 @@ My key strengths are personality and creative thinking. I am driven to learn abo
   * Work closely with sysadmins and developers to find and resolve issues with delivery and test new methods (delivery testing tools, IP range route management)
 
 
-*Sign Artist | Trader Joe's | Mar 2006 – Jul 2012 | Costa Mesa, CA*
+**Sign Artist | Trader Joe's | Mar 2006 – Jul 2012 | Costa Mesa, CA**
 
  * Arts and crafts all day, sprinkled with "WOW" customer service.
 
