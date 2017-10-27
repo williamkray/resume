@@ -1,0 +1,71 @@
+# William Kray
+
+## Who Am I
+
+My key strengths are personality and creative thinking. I am driven to learn about new technologies, tools, techniques, and ideas that can be implemented to make workflows more efficient. I strongly believe in the idea of using the "right tool for the job", and continuing to add to my list of resources helps me creatively solve complex issues in all aspects of infrastructure design and automation.
+
+## Where Have I Been
+
+*Lead DevOps Architect | CorpInfo (Onica) | May 2017 – Present | Irvine, CA*
+
+  * Actively engineer across multiple teams, establishing and ensuring architectural direction by example.
+  * Interact with clients to set expectations for technical delivery.
+  * Mentor other engineers within my team, supporting hiring efforts and performance reviews.
+  * Participate in the research and development of proofs of concept for both internal and external, client-facing initiatives.
+  * Engage with customers, including hands on collaboration with client Engineering teams and Architectural reviews, acting as the Cloud Services, DevOps and Technology evangelist.
+  * Plan against delivery risks and potential issues to mitigate with forward planning. And of course, automate all the things.
+
+*Cloud Engineer | CorpInfo | Feb 2016 – May 2017 Employment | Irvine, CA*
+
+  * Architect and build complex systems for high-availability, fault-tolerance, scalability, and durability.
+  * Leverage the full range of Amazon Web Services offerings for deployment, configuration, data warehousing, security, and testing, with focus on AWS CloudFormation and its integration with other AWS services like RDS, Route53, and compute offerings.
+  * Streamline development workflows by automating deployment of separate environments.
+  * Creatively solve technical and logistical problems to resolve infrastructure durability issues and data reliability.
+
+
+*Jr. DevOps Engineer | Quadrant 4 System Corporation | Sep 2014 – Feb 2016 Employment | Santa Ana, CA*
+
+  * Automate and oversee multiple HA environments for hundreds of major websites including motortrend.com (CentOS Linux, Rightscale/Chef, Ruby, Git, Atlassian Stash/Confluence, HAProxy/F5, Elasticsearch, Varnish, Apache, Cloudstack)
+  * Continue administration of legacy environments (Windows Server, IIS, Postgres)
+  * Manage centralized logging systems (Elasticsearch / Kibana)
+  * Administrate separate environments for development, testing, staging and production to facilitate agile developer workflow and    continuous deployment (Atlassian Jira)
+  * Configure and respond to urgent alerts (Nagios, Rigor, Dotcom-monitor)
+  * Research and implement infrastructure solutions (Docker, Rancher, Consul)
+  * Diagnose existing and potential problems and find resolutions for them
+
+
+*SysAdmin / I.T. Support | Trinet Internet Solutions | Jun 2013 – Sep 2014 | Irvine, CA*
+
+  * Manage several Linux servers (CentOS, Ubuntu)
+  * Find sustainable and money-saving solutions to problems (migrate from AWS to self-hosted VMWare)
+  * Respond to emergency alerts regarding internal and client-facing tools and sites (Bash, Perl, sendmail)
+  * Maintain network infrastructure (Cisco Security Appliance, small-office network)
+  * Troubleshoot server and workstation technical issues (Microsoft Outlook, Windows XP/Vista/7, Microsoft Office, dmesg,  syslogs)
+  * Parse Akamai generated logs and generate reports consolidating metrics for streaming video stats (Akamai, Sawmill, custom Bash scripts)
+  * Improve tools, systems and processes to promote productivity office-wide
+
+
+*Delivery Manager | Blackstar Marketing | Jul 2012 – Jun 2013 | Aliso Viejo, CA*
+
+  * Independently find creative, reactive methods for delivering campaign emails
+  * Manage resources required (IP addresses, domains, landing pages, creative content for campaigns)
+  * Analyze individual campaign performance (A/B testing, etc) to improve revenue
+  * Work closely with sysadmins and developers to find and resolve issues with delivery and test new methods (delivery testing tools, IP range route management)
+
+
+*Sign Artist | Trader Joe's | Mar 2006 – Jul 2012 | Costa Mesa, CA*
+
+ * Arts and crafts all day, sprinkled with "WOW" customer service.
+
+## Where Am I Going
+
+I'm proud of how much I have learned in a relatively short time, and hope to continue my personal trajectory in the I.T. industry by learning new concepts, staying at the bleeding edge of technology, and radically changing how people think of and interact with technological systems. As people and industries change their thought processes around the internet, cloud computing, and software, I want to continue to be a guide and trusted expert to ensure best practices, new ideas, and creative thinking are all important factors in the future we build together.
+
+## Certifications
+
+  * AWS Certified Solutions Architect - Professional
+  * AWS Certified Developer - Associate
+  * AWS Certified DevOps Engineer - Professional
+  * AWS Certified SysOps Administrator - Associate
+  * AWS Certified Solutions Architect - Associate
+
