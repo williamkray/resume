@@ -16,7 +16,7 @@ My key strengths are personality and creative thinking. I am driven to learn abo
   * Engage with customers, including hands on collaboration with client Engineering teams and Architectural reviews, acting as the Cloud Services, DevOps and Technology evangelist.
   * Plan against delivery risks and potential issues to mitigate with forward planning. And of course, automate all the things.
 
-**Cloud Engineer | CorpInfo | Feb 2016 – May 2017 Employment | Irvine, CA**
+**Cloud Engineer | CorpInfo | Feb 2016 – May 2017 | Irvine, CA**
 
   * Architect and build complex systems for high-availability, fault-tolerance, scalability, and durability.
   * Leverage the full range of Amazon Web Services offerings for deployment, configuration, data warehousing, security, and testing, with focus on AWS CloudFormation and its integration with other AWS services like RDS, Route53, and compute offerings.
@@ -24,7 +24,7 @@ My key strengths are personality and creative thinking. I am driven to learn abo
   * Creatively solve technical and logistical problems to resolve infrastructure durability issues and data reliability.
 
 
-**Jr. DevOps Engineer | Quadrant 4 System Corporation | Sep 2014 – Feb 2016 Employment | Santa Ana, CA**
+**Jr. DevOps Engineer | Quadrant 4 System Corporation | Sep 2014 – Feb 2016 | Santa Ana, CA**
 
   * Automate and oversee multiple HA environments for hundreds of major websites including motortrend.com (CentOS Linux, Rightscale/Chef, Ruby, Git, Atlassian Stash/Confluence, HAProxy/F5, Elasticsearch, Varnish, Apache, Cloudstack)
   * Continue administration of legacy environments (Windows Server, IIS, Postgres)
