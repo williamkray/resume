@@ -10,8 +10,9 @@ My key strengths are personality and creative thinking. I am driven to learn abo
 **Lead DevOps Architect | CorpInfo (Onica) | May 2017 – Present | Irvine, CA**
 
   * Actively engineer across multiple teams, establishing and ensuring architectural direction by example.
+  * Design systems, architectural environments, integration and deployment pipelines, and define process to streamline and accelerate development and ensure alignment with best practices.
   * Interact with clients to set expectations for technical delivery.
-  * Mentor other engineers within my team, supporting hiring efforts and performance reviews.
+  * Mentor other engineers and architects within my team, supporting hiring efforts and performance reviews.
   * Participate in the research and development of proofs of concept for both internal and external, client-facing initiatives.
   * Engage with customers, including hands on collaboration with client Engineering teams and Architectural reviews, acting as the Cloud Services, DevOps and Technology evangelist.
   * Plan against delivery risks and potential issues to mitigate with forward planning. And of course, automate all the things.
@@ -64,9 +65,9 @@ I'm proud of how much I have learned in a relatively short time, and hope to con
 
 ## Certifications
 
-  * AWS Certified Solutions Architect - Professional
-  * AWS Certified Developer - Associate
-  * AWS Certified DevOps Engineer - Professional
-  * AWS Certified SysOps Administrator - Associate
-  * AWS Certified Solutions Architect - Associate
+  * AWS Certified Solutions Architect - Professional (Validation Number 2NDZ24BCJEQEQ795)
+  * AWS Certified DevOps Engineer - Professional (Validation Number S55BCMMK2FVEQY5T)
+  * AWS Certified Developer - Associate (Validation Number XH0LYBB2DBR4Q6SZ)
+  * AWS Certified SysOps Administrator - Associate (Validation Number 1SRKCZK1CN1QQL3S)
+  * AWS Certified Solutions Architect - Associate (Validation Number B56JHJ2222VQQVK7)
 
