@@ -7,7 +7,7 @@ My key strengths are personality and creative thinking. I am driven to learn abo
 
 ## Where Have I Been
 
-**Lead DevOps Architect | CorpInfo (Onica) | May 2017 – Present | Irvine, CA**
+**Lead DevOps Architect | Onica | May 2017 – Present | Irvine, CA**
 
   * Actively engineer across multiple teams, establishing and ensuring architectural direction by example.
   * Design systems, architectural environments, integration and deployment pipelines, and define process to streamline and accelerate development and ensure alignment with best practices.
@@ -17,7 +17,7 @@ My key strengths are personality and creative thinking. I am driven to learn abo
   * Engage with customers, including hands on collaboration with client Engineering teams and Architectural reviews, acting as the Cloud Services, DevOps and Technology evangelist.
   * Plan against delivery risks and potential issues to mitigate with forward planning. And of course, automate all the things.
 
-**Cloud Engineer | CorpInfo | Feb 2016 – May 2017 | Irvine, CA**
+**Cloud Engineer | Onica | Feb 2016 – May 2017 | Irvine, CA**
 
   * Architect and build complex systems for high-availability, fault-tolerance, scalability, and durability.
   * Leverage the full range of Amazon Web Services offerings for deployment, configuration, data warehousing, security, and testing, with focus on AWS CloudFormation and its integration with other AWS services like RDS, Route53, and compute offerings.
