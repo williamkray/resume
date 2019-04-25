@@ -7,7 +7,16 @@ My key strengths are personality and creative thinking. I am driven to learn abo
 
 ## Where Have I Been
 
-**Lead DevOps Architect | Onica | May 2017 – Present | Irvine, CA**
+**Director, Solutions Architecture | Onica | February 2019 – Present | Irvine, CA**
+
+  * Manage a team of Lead Solutions Architects and Engineers (each with their own direct reports), supporting hiring efforts and performance reviews. 
+  * Develop curriculum and set standards of excellence for Architecture department. 
+  * Foster a culture within the department of transparency, personal and professional growth, and determine proper courses of action for the business to enhance this culture. 
+  * Identify and plan for the future of Onica's Architecture teams and develop new business initiatives for continued success. 
+  * Engage with customers, including hands on collaboration with client Engineering teams and Architectural reviews, acting as the Cloud Services, DevOps and Technology evangelist. 
+  * Plan against delivery risks and potential issues to mitigate with forward planning. 
+
+**Lead DevOps Architect | Onica | May 2017 – February 2019 | Irvine, CA**
 
   * Actively engineer across multiple teams, establishing and ensuring architectural direction by example.
   * Design systems, architectural environments, integration and deployment pipelines, and define process to streamline and accelerate development and ensure alignment with best practices.
