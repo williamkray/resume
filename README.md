@@ -7,12 +7,12 @@ My key strengths are personality and creative thinking. I am driven to learn abo
 
 ## Where Have I Been
 
-**Director, Solutions Architecture | Onica | February 2019 – Present | Irvine, CA**
+**Practice Director, Architecture and Engineering | Onica | February 2019 – Present | Irvine, CA**
 
   * Manage a team of Lead Solutions Architects and Engineers (each with their own direct reports), supporting hiring efforts and performance reviews. 
-  * Develop curriculum and set standards of excellence for Architecture department. 
+  * Develop curriculum and set standards of excellence for Architecture and Engineering practice. 
   * Foster a culture within the department of transparency, personal and professional growth, and determine proper courses of action for the business to enhance this culture. 
-  * Identify and plan for the future of Onica's Architecture teams and develop new business initiatives for continued success. 
+  * Identify and plan for the future of Onica's Architecture and Engineering teams and develop new business initiatives for continued success. 
   * Engage with customers, including hands on collaboration with client Engineering teams and Architectural reviews, acting as the Cloud Services, DevOps and Technology evangelist. 
   * Plan against delivery risks and potential issues to mitigate with forward planning. 
 
