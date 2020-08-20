@@ -7,7 +7,14 @@ My key strengths are personality and creative thinking. I am driven to learn abo
 
 ## Where Have I Been
 
-**Practice Director, Architecture and Engineering | Onica | February 2019 – Present | Irvine, CA**
+**Director / Senior Manager, Product Delivery Integration | Onica, a Rackspace Technology Company | September 2019  – Present | Irvine, CA**
+
+  * Develop and enhance the methods, processes, and technical assets that represent "the Onica Way".
+  * Oversee ongoing efforts around training and evangelization.
+  * Ensure quality through consistency of delivery across all technical teams.
+  * Mediate between needs from delivery teams, and documentation of delivery strategy for marketing and sales teams.
+
+**Practice Director, Architecture and Engineering | Onica | February 2019 – September 2019 | Irvine, CA**
 
   * Manage a team of Lead Solutions Architects and Engineers (each with their own direct reports), supporting hiring efforts and performance reviews. 
   * Develop curriculum and set standards of excellence for Architecture and Engineering practice. 
@@ -70,7 +77,7 @@ My key strengths are personality and creative thinking. I am driven to learn abo
 
 ## Where Am I Going
 
-I'm proud of how much I have learned in a relatively short time, and hope to continue my personal trajectory in the I.T. industry by learning new concepts, staying at the bleeding edge of technology, and radically changing how people think of and interact with technological systems. As people and industries change their thought processes around the internet, cloud computing, and software, I want to continue to be a guide and trusted expert to ensure best practices, new ideas, and creative thinking are all important factors in the future we build together.
+I'm proud of how much I have grown in a relatively short time, and hope to continue my personal trajectory in the I.T. industry by learning new concepts, staying at the bleeding edge of technology, and radically changing how people think of and interact with technological systems. As people and industries change their thought processes around the internet, cloud computing, and software, I want to continue to be a guide and trusted expert to ensure that best practices, new ideas, and creative thinking are all factors in the future we build together.
 
 ## Certifications
 
