@@ -9,10 +9,13 @@ My key strengths are personality and creative thinking. I am driven to learn abo
 
 **Director / Senior Manager, Product Delivery Integration | Onica, a Rackspace Technology Company | September 2019  – Present | Irvine, CA**
 
+*Note: role of Director at Onica was re-aligned to Senior Manager after Onica's acquisition by Rackspace Technology*
+
   * Develop and enhance the methods, processes, and technical assets that represent "the Onica Way".
   * Oversee ongoing efforts around training and evangelization.
   * Ensure quality through consistency of delivery across all technical teams.
   * Mediate between needs from delivery teams, and documentation of delivery strategy for marketing and sales teams.
+
 
 **Practice Director, Architecture and Engineering | Onica | February 2019 – September 2019 | Irvine, CA**
 
