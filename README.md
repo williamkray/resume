@@ -66,7 +66,10 @@ My key strengths are personality and creative thinking. I am driven to learn abo
 
 **Sign Artist | Trader Joe's | Mar 2006 – Jul 2012 | Costa Mesa, CA**
 
- * Arts and crafts all day, sprinkled with "WOW" customer service.
+ * Design and deliver a constant workstream of artwork and store signage in a timely manner
+ * Self-manage priorities of new signage requirements
+ * Develop automated processes to keep monotonous tasks from overwhelming larger, more interesting projects (leveraging open source software like Ubuntu, GIMP, and FontForge)
+ * Continue to provide top-tier customer service and product knowledge, carry the torch for brand values because EVERYONE loves Trader Joe's!
 
 ## Where Am I Going
 
