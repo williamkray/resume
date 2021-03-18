@@ -1,5 +1,8 @@
 name: generate-pdf
-on: push
+on: 
+  push:
+    tags:
+      - '*'
 jobs:
   generate-pdf:
     runs-on: ubuntu-latest
@@ -10,7 +13,6 @@ jobs:
         run: ./generate-pdf.sh
       - name: Release
         uses: softprops/action-gh-release@v1
-        if: startsWith(github.ref, 'refs/tags/')
         with:
           files: 'William Kray Resume.pdf'
           fail_on_unmatched_files: true
