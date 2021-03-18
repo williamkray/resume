@@ -15,7 +15,5 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           files: 'William Kray Resume.pdf'
-          fail_on_unmatched_files: true
-          tag_name: ${{ github.ref }}
         env:
           GITHUB_TOKEN: ${{ secrets.THIS_REPO_TOKEN }}
