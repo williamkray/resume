@@ -1,0 +1,20 @@
+name: generate-pdf
+on:
+  push:
+    branches:
+      - master
+jobs:
+  generate-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check Out Repo
+        uses: actions/checkout@master
+      - name: Generate PDF
+        run: ./generate-pdf.sh
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: 'William Kray Resume.pdf'
+          fail_on_unmatched_files: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.THIS_REPO_TOKEN }}
