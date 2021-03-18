@@ -16,6 +16,6 @@ jobs:
         with:
           files: 'William Kray Resume.pdf'
           fail_on_unmatched_files: true
-          tag_name: ${{ github.ref }}
+          tag_name: ${{ github.sha }}
         env:
           GITHUB_TOKEN: ${{ secrets.THIS_REPO_TOKEN }}
