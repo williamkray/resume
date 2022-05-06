@@ -3,14 +3,17 @@
 
 ## Who Am I
 
-My key strengths are personality and creative thinking. I am driven to learn about new technologies, tools, techniques, and ideas that can be implemented to make workflows more efficient. I strongly believe in the idea of using the "right tool for the job", and continuing to add to my list of resources helps me creatively solve complex issues in all aspects of infrastructure design and automation.
+My key strengths are personality and creative thinking. I am driven to learn about new technologies, tools, techniques,
+and ideas that can be implemented to make workflows more efficient. I strongly believe in the idea of using the "right
+tool for the job", and continuing to add to my list of resources helps me creatively solve complex issues in all aspects
+of infrastructure design and automation.
 
 ## Where Have I Been
 
-**Delivery Manager | Caylent | July 2021 - Present | Costa Mesa, CA**
+**Technical Delivery Manager | Caylent | July 2021 - Present | Costa Mesa, CA**
 
-  * Lead a technical delivery team (Pod) of Engineers and Solutions Architects to deliver ongoing technical support and
-    development for customers over long-term lifecycles (6 months - 1 year starting).
+  * Lead multiple technical delivery teams (Pods) of Engineers and Solutions Architects to deliver ongoing technical
+    support and development for customers over long-term lifecycles (6 months - 1 year starting).
   * Lead project-based teams in short-term (months-long) engagement lifecycles to provide technical oversight, shape
     long-range planning, and identify customer business needs.
   * Develop business accelerator products, combining both go-to-market strategy and supporting development artifacts
