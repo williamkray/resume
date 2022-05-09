@@ -7,5 +7,5 @@ docker run --rm -v "${PWD}":/data williamkray/latex:latest \
   -V mainfont:"DroidSans" \
   -f gfm \
   -t latex \
-  -o "William Kray Resume ${CI_REF_SLUG}.pdf" \
+  -o "William Kray Resume ${GITHUB_REF_NAME}.pdf" \
   README.md
