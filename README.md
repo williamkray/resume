@@ -1,5 +1,5 @@
 # William Kray
-[LinkedIn](https://www.linkedin.com/in/williamkray) | [Website](https://www.kray.pw/) | [Matrix](https://matrix.to/#/@william:mssj.me)
+[LinkedIn](https://www.linkedin.com/in/williamkray) | [Website](https://www.kray.pw/) | [GitHub](https://github.com/williamkray) | [Matrix](https://matrix.to/#/@william:mssj.me)
 
 ## Who Am I
 
