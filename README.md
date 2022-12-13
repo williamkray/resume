@@ -5,7 +5,7 @@
 
 I am an experienced Cloud Engineer, Architect, and Manager with a positive outlook and people-focused personality. I
 strongly believe in using the right tool for the job regardless of the domain, I have strong opinions but hold them
-weakly, and I am convinced that 99.9% of problems arise because of a breakdown in communication rather than technical
+weakly, and I am convinced that most problems arise because of a breakdown in communication rather than technical
 reasons. I focus on my people and view the role of a Manager as giving their team every possible opportunity to succeed
 without getting in their way. I believe that a person who is tired of learning is tired of life, and I never want to be
 that person.
