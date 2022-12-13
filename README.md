@@ -3,14 +3,28 @@
 
 ## Who Am I
 
-My key strengths are personality and creative thinking. I am driven to learn about new technologies, tools, techniques,
-and ideas that can be implemented to make workflows more efficient. I strongly believe in the idea of using the "right
-tool for the job", and continuing to add to my list of resources helps me creatively solve complex issues in all aspects
-of infrastructure design and automation.
+I am an experienced Cloud Engineer, Architect, and Manager with a positive outlook and people-focused personality. I
+strongly believe in using the right tool for the job regardless of the domain, I have strong opinions but hold them
+weakly, and I am convinced that 99.9% of problems arise because of a breakdown in communication rather than technical
+reasons. I focus on my people and view the role of a Manager as giving their team every possible opportunity to succeed
+without getting in their way. I believe that a person who is tired of learning is tired of life, and I never want to be
+that person.
 
 ## Where Have I Been
 
-**Technical Delivery Manager | Caylent | July 2021 - Present | Costa Mesa, CA**
+**Director, Cloud Architecture and Engineering | Caylent | December 2022 - Present | Costa Mesa, CA**
+
+  * Manage multiple Technical Delivery Managers, each leading their own teams of Architects and Engineers across
+    multiple customer engagements.
+  * Handle escalations and resolve issues on customer engagements.
+  * Identify internal initiatives or standardization needed across the Caylent organization. 
+  * Staff upcoming customer engagements with appropriate Engineers and Architects based on available resourcing, skill
+    sets, and personal growth paths.
+  * Work closely with Sales teams, Project Management teams, and Marketing to ensure consistency of promised work with
+    realistic deliverability of our Service Delivery teams.
+  * Develop operational standards, templates, and process guidelines to ensure successful project delivery.
+
+**Technical Delivery Manager | Caylent | July 2021 - December 2022 | Costa Mesa, CA**
 
   * Lead multiple technical delivery teams (Pods) of Engineers and Solutions Architects to deliver ongoing technical
     support and development for customers over long-term lifecycles (6 months - 1 year starting).
@@ -20,8 +34,12 @@ of infrastructure design and automation.
     (Terraform, Python, etc.) to enable new and prospective customers to leverage public cloud technologies quickly.
   * Develop internal accelerator products to enable delivery teams and ensure reasonable standardization of technical
     design and delivery across all projects and teams.
+  * Develop a centralized knowledge base for all Caylent delivery resources to share and collaborate on standards and
+    best practices ("The Caylent Way")
+  * Interview candidates and help improve the interview process for Engineering, Architecting, and Manager roles within
+    Service Delivery.
 
-**Director / Senior Manager, Product Delivery Integration | Onica, a Rackspace Technology Company | September 2019  –
+**Director / Senior Manager, Product Delivery Integration | Onica, a Rackspace Technology Company | September 2019 -
 July 2021 | Irvine, CA**
 
 *Note: role of Director at Onica was re-aligned to Senior Manager after Onica's acquisition by Rackspace Technology*
@@ -32,7 +50,7 @@ July 2021 | Irvine, CA**
   * Mediate between needs from delivery teams, and documentation of delivery strategy for marketing and sales teams.
 
 
-**Practice Director, Architecture and Engineering | Onica | February 2019 – September 2019 | Irvine, CA**
+**Practice Director, Architecture and Engineering | Onica | February 2019 - September 2019 | Irvine, CA**
 
   * Manage a team of Lead Solutions Architects and Engineers (each with their own direct reports), supporting hiring
     efforts and performance reviews. 
@@ -45,7 +63,7 @@ July 2021 | Irvine, CA**
     acting as the Cloud Services, DevOps and Technology evangelist. 
   * Plan against delivery risks and potential issues to mitigate with forward planning. 
 
-**Lead DevOps Architect | Onica | May 2017 – February 2019 | Irvine, CA**
+**Lead DevOps Architect | Onica | May 2017 - February 2019 | Irvine, CA**
 
   * Actively engineer across multiple teams, establishing and ensuring architectural direction by example.
   * Design systems, architectural environments, integration and deployment pipelines, and define process to streamline
@@ -59,7 +77,7 @@ July 2021 | Irvine, CA**
   * Plan against delivery risks and potential issues to mitigate with forward planning. And of course, automate all the
     things.
 
-**Cloud Engineer | Onica | Feb 2016 – May 2017 | Irvine, CA**
+**Cloud Engineer | Onica | Feb 2016 - May 2017 | Irvine, CA**
 
   * Architect and build complex systems for high-availability, fault-tolerance, scalability, and durability.
   * Leverage the full range of Amazon Web Services offerings for deployment, configuration, data warehousing, security,
@@ -69,7 +87,7 @@ July 2021 | Irvine, CA**
   * Creatively solve technical and logistical problems to resolve infrastructure durability issues and data reliability.
 
 
-**Jr. DevOps Engineer | Quadrant 4 System Corporation | Sep 2014 – Feb 2016 | Santa Ana, CA**
+**Jr. DevOps Engineer | Quadrant 4 System Corporation | Sep 2014 - Feb 2016 | Santa Ana, CA**
 
   * Automate and oversee multiple HA environments for hundreds of major websites including motortrend.com (CentOS Linux,
     Rightscale/Chef, Ruby, Git, Atlassian Stash/Confluence, HAProxy/F5, Elasticsearch, Varnish, Apache, Cloudstack)
@@ -82,7 +100,7 @@ July 2021 | Irvine, CA**
   * Diagnose existing and potential problems and find resolutions for them
 
 
-**SysAdmin / I.T. Support | Trinet Internet Solutions | Jun 2013 – Sep 2014 | Irvine, CA**
+**SysAdmin / I.T. Support | Trinet Internet Solutions | Jun 2013 - Sep 2014 | Irvine, CA**
 
   * Manage several Linux servers (CentOS, Ubuntu)
   * Find sustainable and money-saving solutions to problems (migrate from AWS to self-hosted VMWare)
@@ -95,7 +113,7 @@ July 2021 | Irvine, CA**
   * Improve tools, systems and processes to promote productivity office-wide
 
 
-**Delivery Manager | Blackstar Marketing | Jul 2012 – Jun 2013 | Aliso Viejo, CA**
+**Delivery Manager | Blackstar Marketing | Jul 2012 - Jun 2013 | Aliso Viejo, CA**
 
   * Independently find creative, reactive methods for delivering campaign emails
   * Manage resources required (IP addresses, domains, landing pages, creative content for campaigns)
@@ -104,7 +122,7 @@ July 2021 | Irvine, CA**
     testing tools, IP range route management)
 
 
-**Sign Artist | Trader Joe's | Mar 2006 – Jul 2012 | Costa Mesa, CA**
+**Sign Artist | Trader Joe's | Mar 2006 - Jul 2012 | Costa Mesa, CA**
 
  * Design and deliver a constant workstream of artwork and store signage in a timely manner
  * Self-manage priorities of new signage requirements
@@ -115,11 +133,12 @@ July 2021 | Irvine, CA**
 
 ## Where Am I Going
 
-I'm proud of how much I have grown in a relatively short time, and hope to continue my personal trajectory in the I.T.
-industry by learning new concepts, staying at the bleeding edge of technology, and radically changing how people think
-of and interact with technological systems. As people and industries change their thought processes around the internet,
-cloud computing, and software, I want to continue to be a guide and trusted expert to ensure that best practices, new
-ideas, and creative thinking are all factors in the future we build together.
+I am exceptionally proud of my career trajectory and pivot into the Technology space. I always hope to continue that
+journey by learning new concepts, staying at the bleeding edge of technology, and radically changing how people think of
+and interact with technological systems, all while enabling the people who work with me to grow their personal and
+professional skillsets. As people and industries change their thought processes around the internet, cloud computing,
+and software, I want to continue to be a guide and trusted expert to ensure that the next generation of technologists
+are thinking comprehensively about how to define best practices, come up with new ideas, and use critical thinking.
 
 ## Certifications
 
