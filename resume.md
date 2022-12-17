@@ -86,52 +86,6 @@ July 2021 | Irvine, CA**
   * Streamline development workflows by automating deployment of separate environments.
   * Creatively solve technical and logistical problems to resolve infrastructure durability issues and data reliability.
 
-[//]: # (exclude_start)
-
-**Jr. DevOps Engineer | Quadrant 4 System Corporation | Sep 2014 - Feb 2016 | Santa Ana, CA**
-
-  * Automate and oversee multiple HA environments for hundreds of major websites including motortrend.com (CentOS Linux,
-    Rightscale/Chef, Ruby, Git, Atlassian Stash/Confluence, HAProxy/F5, Elasticsearch, Varnish, Apache, Cloudstack)
-  * Continue administration of legacy environments (Windows Server, IIS, Postgres)
-  * Manage centralized logging systems (Elasticsearch / Kibana)
-  * Administrate separate environments for development, testing, staging and production to facilitate agile developer
-    workflow and    continuous deployment (Atlassian Jira)
-  * Configure and respond to urgent alerts (Nagios, Rigor, Dotcom-monitor)
-  * Research and implement infrastructure solutions (Docker, Rancher, Consul)
-  * Diagnose existing and potential problems and find resolutions for them
-
-**SysAdmin / I.T. Support | Trinet Internet Solutions | Jun 2013 - Sep 2014 | Irvine, CA**
-
-  * Manage several Linux servers (CentOS, Ubuntu)
-  * Find sustainable and money-saving solutions to problems (migrate from AWS to self-hosted VMWare)
-  * Respond to emergency alerts regarding internal and client-facing tools and sites (Bash, Perl, sendmail)
-  * Maintain network infrastructure (Cisco Security Appliance, small-office network)
-  * Troubleshoot server and workstation technical issues (Microsoft Outlook, Windows XP/Vista/7, Microsoft Office,
-    dmesg,  syslogs)
-  * Parse Akamai generated logs and generate reports consolidating metrics for streaming video stats (Akamai, Sawmill,
-    custom Bash scripts)
-  * Improve tools, systems and processes to promote productivity office-wide
-
-
-**Delivery Manager | Blackstar Marketing | Jul 2012 - Jun 2013 | Aliso Viejo, CA**
-
-  * Independently find creative, reactive methods for delivering campaign emails
-  * Manage resources required (IP addresses, domains, landing pages, creative content for campaigns)
-  * Analyze individual campaign performance (A/B testing, etc) to improve revenue
-  * Work closely with sysadmins and developers to find and resolve issues with delivery and test new methods (delivery
-    testing tools, IP range route management)
-
-
-**Sign Artist | Trader Joe's | Mar 2006 - Jul 2012 | Costa Mesa, CA**
-
- * Design and deliver a constant workstream of artwork and store signage in a timely manner
- * Self-manage priorities of new signage requirements
- * Develop automated processes to keep monotonous tasks from overwhelming larger, more interesting projects (leveraging
-   open source software like Ubuntu, GIMP, and FontForge)
- * Continue to provide top-tier customer service and product knowledge, carry the torch for brand values because
-   EVERYONE loves Trader Joe's!
-
-[//]: # (exclude_stop)
 
 ## Where Am I Going
 

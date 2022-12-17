@@ -10,7 +10,7 @@ docker run --rm -v "${PWD}":/data williamkray/latex:latest \
   -o "William Kray CV ${GITHUB_REF_NAME}.pdf" \
   README.md
 
-sed '/exclude_start/, /exclude_stop/dg' README.md > resume.md
+sed '/exclude_start/, /exclude_stop/d' README.md > resume.md
 
 docker run --rm -v "${PWD}":/data williamkray/latex:latest \
   --pdf-engine=xelatex \
