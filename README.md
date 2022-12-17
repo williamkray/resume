@@ -99,6 +99,7 @@ July 2021 | Irvine, CA**
   * Research and implement infrastructure solutions (Docker, Rancher, Consul)
   * Diagnose existing and potential problems and find resolutions for them
 
+[//]: # (exclude_start)
 
 **SysAdmin / I.T. Support | Trinet Internet Solutions | Jun 2013 - Sep 2014 | Irvine, CA**
 
@@ -130,6 +131,8 @@ July 2021 | Irvine, CA**
    open source software like Ubuntu, GIMP, and FontForge)
  * Continue to provide top-tier customer service and product knowledge, carry the torch for brand values because
    EVERYONE loves Trader Joe's!
+
+[//]: # (exclude_stop)
 
 ## Where Am I Going
 
