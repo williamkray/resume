@@ -149,12 +149,13 @@ January 2020*
 
 ## Where Am I Going
 
-I am exceptionally proud of my career trajectory and pivot into the Technology space. I always hope to continue that
-journey by learning new concepts, staying at the bleeding edge of technology, and radically changing how people think of
-and interact with technological systems, all while enabling the people who work with me to grow their personal and
-professional skillsets. As people and industries change their thought processes around the internet, cloud computing,
-and software, I want to continue to be a guide and trusted expert to ensure that the next generation of technologists
-are thinking comprehensively about how to define best practices, come up with new ideas, and use critical thinking.
+I am exceptionally proud of my career beginnings in retail, the lessons learned there about customer obsession, and my
+pivot into the Technology space. I always hope to continue that journey by learning new concepts, staying at the
+bleeding edge of technology, and radically changing how people think of and interact with technological systems, all
+while enabling the people who work with me to grow their personal and professional skillsets. As people and industries
+change their thought processes around the internet, cloud computing, and software, I want to continue to be a guide and
+trusted expert to ensure that the next generation of technologists are thinking comprehensively about how to define best
+practices, come up with new ideas, and use critical thinking.
 
 ## Certifications
 
